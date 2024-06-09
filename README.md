@@ -1,5 +1,5 @@
 # Data-Driven-Innovations-In-Supply-Chain-Management-With-Qlik-Insights
-Project Overview: Advanced Supply Chain Management with Qlik Analytics
+**Project Overview:** Advanced Supply Chain Management with Qlik Analytics
 In today's competitive business landscape, optimizing supply chain management is essential for organizational success. Our project, "Advanced Supply Chain Management with Qlik Analytics," aims to leverage cutting-edge data analytics technologies to revolutionize supply chain operations.
 
 Through this initiative, we will harness the power of Qlik's advanced analytics platform to extract actionable insights from complex supply chain datasets. Our focus areas include:
