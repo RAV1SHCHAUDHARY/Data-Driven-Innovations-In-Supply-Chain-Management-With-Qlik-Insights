@@ -15,3 +15,7 @@ Through this initiative, we will harness the power of Qlik's advanced analytics 
 **5- Continuous Improvement:** Establishing a culture of continuous improvement by monitoring performance metrics and identifying opportunities for optimization.
 
 Through this project, we aim to empower organizations to enhance operational efficiency, reduce costs, and deliver superior value to customers. By harnessing the power of data-driven insights, organizations can gain a competitive edge in today's dynamic business environment.
+
+**Dataset Link-**
+**1- Initial Dataset:** https://drive.google.com/file/d/1zcr1GbvIjZmPn39byVEGGjxr3xKaS5z8/view?usp=drive_link
+**2- Dataset after PreProcessing:**
