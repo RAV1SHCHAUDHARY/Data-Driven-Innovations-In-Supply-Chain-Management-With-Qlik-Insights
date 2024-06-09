@@ -76,7 +76,8 @@ The "Advanced Supply Chain Management with Qlik Analytics" project aims to revol
 
 **1- Initial Dataset:** https://drive.google.com/file/d/1zcr1GbvIjZmPn39byVEGGjxr3xKaS5z8/view?usp=drive_link
 
-**2- Dataset after PreProcessing:**
+
+**2- Dataset after PreProcessing:** https://drive.google.com/file/d/1NbBKWxaIBFLElVlrmunnJa0ClMgk0XWR/view?usp=drive_link
 
 
 **Project Demonstration Link:** https://drive.google.com/file/d/12XyuImhKxAHW1uiwDAjMcF8Ijn-sq4Oo/view?usp=drive_link
